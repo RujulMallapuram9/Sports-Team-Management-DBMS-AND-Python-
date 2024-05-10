@@ -1,4 +1,4 @@
-# DATABSE SPORTS TEAM MANAGEMENT 
+# SPORTS TEAM MANAGEMENT 
 
 ## 1. Introduction:
 Managing a sports team involves various administrative tasks, including player management, scheduling, training, and performance analysis. Traditional methods of managing these tasks manually can be time-consuming and prone to errors. Therefore, there is a need for an efficient and automated solution to streamline these processes.
